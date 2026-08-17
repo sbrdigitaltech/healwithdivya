@@ -3,7 +3,7 @@
 Marketing site for **Divya Rastogi, MPT** — physiotherapist, sports & orthopaedic rehab.
 Hyderabad, and online across India.
 
-Live: **https://sbrdigitaltech.github.io/healwithdivya/**
+Live: **https://divyamrastogi.github.io/healwithdivya/**
 
 Implemented from the Claude Design source `Divya Rastogi Physio.dc.html`, using the
 Ahaara design system tokens with the MotionFlex teal brand (`#056785 → #01ABBF`).
